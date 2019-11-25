@@ -1,0 +1,52 @@
+h1 {
+    color: goldenrod;
+    font-size: 2cm;
+    font-family: fantasy;
+    background-color: rgb(157, 87, 204);
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h2 {
+    color: goldenrod;
+    font-size: 1cm;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+h3 {
+    color: rgb(9, 255, 0);
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-image: url("mike.jpg");
+    background-position: left ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+#container {
+    background-color: rgba(157, 87, 204, 0.61);
+    padding: 20px;
+    
+}
+
+.button {
+    text-decoration: none;
+    background-color: firebrick;
+    color: gold;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 30px;
+}
+
+.button:hover {
+    background-color: indianred;
+    color: khaki;
+}
